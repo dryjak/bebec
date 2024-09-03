@@ -3,6 +3,7 @@ BEBEC
 BEBEC - Beginner-Enabled Bluetooth Educational Car
 
 B.E.B.E.C. is an educational robotic car designed with beginners in mind (like myself), focusing on electronics and programming. Featuring Bluetooth control, B.E.B.E.C. allows users to easily get started with basic electronics, programming, and robotics.
+
 🚀 Features
 
     Beginner-Enabled: Created for individuals starting their journey in electronics. Simple construction and intuitive operation.
